@@ -21,8 +21,9 @@ sudo usermod -aG docker $USER
 
 echo "Cloning repository"
  git clone https://github.com/Mohammad-alghzawi/devops-challenge.git
+ cd devops-challenge
 
 echo "Starting Docker containers"
-docker-compose up -d
+sudo docker-compose up -d
 
 
