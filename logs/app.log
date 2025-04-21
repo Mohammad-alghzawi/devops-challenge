@@ -3,3 +3,52 @@
  * Running on http://127.0.0.1:8080
  * Running on http://172.19.0.2:8080
 2025-04-20 09:46:11,827 INFO: [33mPress CTRL+C to quit[0m
+2025-04-21 06:25:17,611 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.2:5000
+2025-04-21 06:25:17,612 INFO: [33mPress CTRL+C to quit[0m
+2025-04-21 06:25:21,353 INFO: GET request to / from 192.168.1.126
+2025-04-21 06:25:21,354 INFO: 192.168.1.126 - - [21/Apr/2025 06:25:21] "GET / HTTP/1.1" 200 -
+2025-04-21 06:25:30,441 INFO: GET request to / from 192.168.1.126
+2025-04-21 06:25:30,442 INFO: 192.168.1.126 - - [21/Apr/2025 06:25:30] "GET / HTTP/1.1" 200 -
+2025-04-21 06:45:54,758 INFO: GET request to / from 192.168.1.126
+2025-04-21 06:45:54,759 INFO: 192.168.1.126 - - [21/Apr/2025 06:45:54] "GET / HTTP/1.1" 200 -
+2025-04-21 06:51:27,430 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.0.3:5000
+2025-04-21 06:51:27,430 INFO: [33mPress CTRL+C to quit[0m
+2025-04-21 06:56:07,610 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2025-04-21 06:56:07,610 INFO: [33mPress CTRL+C to quit[0m
+2025-04-21 06:56:25,405 INFO: GET request to / from 172.18.0.4
+2025-04-21 06:56:25,406 INFO: 172.18.0.4 - - [21/Apr/2025 06:56:25] "GET / HTTP/1.0" 200 -
+2025-04-21 06:56:25,449 INFO: GET request to /favicon.ico from 172.18.0.4
+2025-04-21 06:56:25,450 INFO: 172.18.0.4 - - [21/Apr/2025 06:56:25] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+2025-04-21 06:58:05,246 INFO: GET request to / from 172.18.0.4
+2025-04-21 06:58:05,247 INFO: 172.18.0.4 - - [21/Apr/2025 06:58:05] "GET / HTTP/1.0" 200 -
+2025-04-21 07:04:53,817 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2025-04-21 07:04:53,817 INFO: [33mPress CTRL+C to quit[0m
+2025-04-21 07:05:06,462 INFO: GET request to / from 172.18.0.4
+2025-04-21 07:05:06,462 INFO: 172.18.0.4 - - [21/Apr/2025 07:05:06] "GET / HTTP/1.0" 200 -
+2025-04-21 07:05:13,485 INFO: GET request to / from 192.168.1.126
+2025-04-21 07:05:13,486 INFO: 192.168.1.126 - - [21/Apr/2025 07:05:13] "GET / HTTP/1.1" 200 -
+2025-04-21 07:05:13,536 INFO: GET request to /favicon.ico from 192.168.1.126
+2025-04-21 07:05:13,537 INFO: 192.168.1.126 - - [21/Apr/2025 07:05:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 07:05:22,237 INFO: GET request to / from 192.168.1.126
+2025-04-21 07:05:22,238 INFO: 192.168.1.126 - - [21/Apr/2025 07:05:22] "GET / HTTP/1.1" 200 -
+2025-04-21 07:08:25,589 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2025-04-21 07:08:25,589 INFO: [33mPress CTRL+C to quit[0m
+2025-04-21 07:08:40,187 INFO: GET request to / from 172.18.0.4
+2025-04-21 07:08:40,188 INFO: 172.18.0.4 - - [21/Apr/2025 07:08:40] "GET / HTTP/1.0" 200 -
+2025-04-21 07:13:29,462 INFO: GET request to / from 172.18.0.4
+2025-04-21 07:13:29,462 INFO: 172.18.0.4 - - [21/Apr/2025 07:13:29] "GET / HTTP/1.0" 200 -
