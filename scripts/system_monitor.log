@@ -171,3 +171,30 @@ redis]
 2025-04-21 20:54:03,049 - CPU Usage: 0.1% | RAM Usage: 39.0% | Disk Usage: 57.0%
 2025-04-21 20:54:03,103 - Running Containers: ["'devops-challenge-web-1'", "'redis'"]
 2025-04-21 20:54:03,153 - Container 'devops-challenge-web-1' is down. Status: b'running'
+2025-04-21 20:56:02,254 - CPU Usage: 0.4% | RAM Usage: 38.9% | Disk Usage: 57.1%
+2025-04-21 20:56:02,280 - Running Containers: ["'devops-challenge-web-1'", "'redis'"]
+2025-04-21 20:56:02,302 - Container 'devops-challenge-web-1' is down. Status: b'running'
+2025-04-21 20:58:02,452 - CPU Usage: 0.3% | RAM Usage: 39.1% | Disk Usage: 57.1%
+2025-04-21 20:58:02,517 - Running Containers: ["'devops-challenge-web-1'", "'redis'"]
+2025-04-21 20:58:02,569 - Container 'devops-challenge-web-1' is down. Status: b'running'
+2025-04-21 21:00:02,826 - CPU Usage: 0.5% | RAM Usage: 39.3% | Disk Usage: 57.1%
+2025-04-21 21:00:02,856 - Running Containers: ["'devops-challenge-web-1'", "'redis'"]
+2025-04-21 21:00:02,900 - Container 'devops-challenge-web-1' is down. Status: b'running'
+2025-04-21 21:02:03,085 - CPU Usage: 0.0% | RAM Usage: 39.0% | Disk Usage: 57.1%
+2025-04-21 21:02:03,143 - Running Containers: ["'devops-challenge-web-1'", "'redis'"]
+2025-04-21 21:02:03,201 - Container 'devops-challenge-web-1' is down. Status: b'running'
+2025-04-21 21:04:02,400 - CPU Usage: 2.5% | RAM Usage: 39.1% | Disk Usage: 57.1%
+2025-04-21 21:04:02,422 - Running Containers: ["'devops-challenge-web-1'", "'redis'"]
+2025-04-21 21:04:02,447 - Container 'devops-challenge-web-1' is down. Status: b'running'
+2025-04-21 21:06:02,541 - CPU Usage: 1.0% | RAM Usage: 39.2% | Disk Usage: 57.1%
+2025-04-21 21:06:02,571 - Running Containers: ["'devops-challenge-web-1'", "'redis'"]
+2025-04-21 21:06:02,591 - Container 'devops-challenge-web-1' is down. Status: b'running'
+2025-04-21 21:08:02,654 - CPU Usage: 3.0% | RAM Usage: 39.4% | Disk Usage: 57.1%
+2025-04-21 21:08:02,685 - Running Containers: ["'devops-challenge-web-1'", "'redis'"]
+2025-04-21 21:08:02,707 - Container 'devops-challenge-web-1' is down. Status: b'running'
+2025-04-21 21:10:02,942 - CPU Usage: 0.0% | RAM Usage: 39.2% | Disk Usage: 57.1%
+2025-04-21 21:10:02,992 - Running Containers: ["'devops-challenge-web-1'", "'redis'"]
+2025-04-21 21:10:03,066 - Container 'devops-challenge-web-1' is down. Status: b'running'
+2025-04-21 21:12:02,193 - CPU Usage: 0.1% | RAM Usage: 39.1% | Disk Usage: 57.1%
+2025-04-21 21:12:02,221 - Running Containers: ["'devops-challenge-web-1'", "'redis'"]
+2025-04-21 21:12:02,241 - Container 'devops-challenge-web-1' is down. Status: b'running'
