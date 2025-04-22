@@ -636,3 +636,5 @@ redis]
 2025-04-22 12:10:03,022 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
 2025-04-22 12:12:02,449 - CPU Usage: 0.2% | RAM Usage: 52.3% | Disk Usage: 57.2%
 2025-04-22 12:12:02,545 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:14:03,107 - CPU Usage: 0.4% | RAM Usage: 51.9% | Disk Usage: 57.1%
+2025-04-22 12:14:03,185 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
