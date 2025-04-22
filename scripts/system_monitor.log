@@ -638,3 +638,137 @@ redis]
 2025-04-22 12:12:02,545 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
 2025-04-22 12:14:03,107 - CPU Usage: 0.4% | RAM Usage: 51.9% | Disk Usage: 57.1%
 2025-04-22 12:14:03,185 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:16:02,604 - CPU Usage: 0.1% | RAM Usage: 52.2% | Disk Usage: 57.1%
+2025-04-22 12:16:02,669 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:18:03,104 - CPU Usage: 0.1% | RAM Usage: 51.8% | Disk Usage: 57.1%
+2025-04-22 12:18:03,198 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:20:02,670 - CPU Usage: 0.1% | RAM Usage: 52.1% | Disk Usage: 57.1%
+2025-04-22 12:20:02,751 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:22:02,322 - CPU Usage: 0.2% | RAM Usage: 51.2% | Disk Usage: 57.1%
+2025-04-22 12:22:02,420 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:24:02,969 - CPU Usage: 0.1% | RAM Usage: 51.4% | Disk Usage: 57.1%
+2025-04-22 12:24:03,064 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:26:02,456 - CPU Usage: 0.3% | RAM Usage: 52.3% | Disk Usage: 57.1%
+2025-04-22 12:26:02,475 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:28:02,713 - CPU Usage: 0.0% | RAM Usage: 52.3% | Disk Usage: 57.1%
+2025-04-22 12:28:02,813 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:30:02,322 - CPU Usage: 0.2% | RAM Usage: 52.7% | Disk Usage: 57.1%
+2025-04-22 12:30:02,394 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:32:02,943 - CPU Usage: 0.1% | RAM Usage: 51.8% | Disk Usage: 57.1%
+2025-04-22 12:32:03,027 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:34:02,576 - CPU Usage: 0.1% | RAM Usage: 51.8% | Disk Usage: 57.1%
+2025-04-22 12:34:02,668 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:36:02,249 - CPU Usage: 0.1% | RAM Usage: 51.4% | Disk Usage: 57.1%
+2025-04-22 12:36:02,329 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:41:29,774 - CPU Usage: 0.1% | RAM Usage: 51.2% | Disk Usage: 57.1%
+2025-04-22 12:41:29,793 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:41:34,925 - CPU Usage: 1.7% | RAM Usage: 51.9% | Disk Usage: 57.1%
+2025-04-22 12:41:35,002 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:42:02,392 - CPU Usage: 0.0% | RAM Usage: 51.7% | Disk Usage: 57.1%
+2025-04-22 12:42:02,443 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:44:02,720 - CPU Usage: 0.3% | RAM Usage: 52.2% | Disk Usage: 57.1%
+2025-04-22 12:44:02,744 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:46:02,986 - CPU Usage: 0.0% | RAM Usage: 52.1% | Disk Usage: 57.1%
+2025-04-22 12:46:03,093 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:48:02,536 - CPU Usage: 0.0% | RAM Usage: 52.2% | Disk Usage: 57.1%
+2025-04-22 12:48:02,647 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:50:02,248 - CPU Usage: 0.0% | RAM Usage: 52.3% | Disk Usage: 57.1%
+2025-04-22 12:50:02,329 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:52:02,754 - CPU Usage: 0.4% | RAM Usage: 52.2% | Disk Usage: 57.1%
+2025-04-22 12:52:02,839 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:54:02,301 - CPU Usage: 0.2% | RAM Usage: 52.4% | Disk Usage: 57.1%
+2025-04-22 12:54:02,410 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:56:02,749 - CPU Usage: 2.3% | RAM Usage: 52.7% | Disk Usage: 57.1%
+2025-04-22 12:56:02,768 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 12:58:03,032 - CPU Usage: 0.1% | RAM Usage: 52.7% | Disk Usage: 57.1%
+2025-04-22 12:58:03,131 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:00:02,611 - CPU Usage: 0.1% | RAM Usage: 52.6% | Disk Usage: 57.1%
+2025-04-22 13:00:02,733 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:02:02,252 - CPU Usage: 0.1% | RAM Usage: 52.4% | Disk Usage: 57.1%
+2025-04-22 13:02:02,400 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:30:03,071 - CPU Usage: 0.3% | RAM Usage: 52.8% | Disk Usage: 57.1%
+2025-04-22 13:30:03,093 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:32:02,202 - CPU Usage: 1.7% | RAM Usage: 52.9% | Disk Usage: 57.1%
+2025-04-22 13:32:02,225 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:34:02,477 - CPU Usage: 0.1% | RAM Usage: 52.8% | Disk Usage: 57.1%
+2025-04-22 13:34:02,565 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:36:02,533 - CPU Usage: 0.1% | RAM Usage: 52.4% | Disk Usage: 57.1%
+2025-04-22 13:36:02,615 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:38:02,965 - CPU Usage: 0.2% | RAM Usage: 52.4% | Disk Usage: 57.1%
+2025-04-22 13:38:03,075 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:40:02,647 - CPU Usage: 0.1% | RAM Usage: 52.7% | Disk Usage: 57.1%
+2025-04-22 13:40:02,760 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:42:02,280 - CPU Usage: 0.3% | RAM Usage: 51.7% | Disk Usage: 57.1%
+2025-04-22 13:42:02,385 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:44:02,883 - CPU Usage: 0.2% | RAM Usage: 51.6% | Disk Usage: 57.1%
+2025-04-22 13:44:02,978 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:46:02,477 - CPU Usage: 0.1% | RAM Usage: 51.7% | Disk Usage: 57.1%
+2025-04-22 13:46:02,562 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:54:02,707 - CPU Usage: 0.1% | RAM Usage: 52.1% | Disk Usage: 57.1%
+2025-04-22 13:54:02,791 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:56:02,393 - CPU Usage: 0.1% | RAM Usage: 51.9% | Disk Usage: 57.1%
+2025-04-22 13:56:02,460 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 13:58:02,873 - CPU Usage: 0.1% | RAM Usage: 52.8% | Disk Usage: 57.1%
+2025-04-22 13:58:02,977 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 14:00:02,438 - CPU Usage: 0.0% | RAM Usage: 53.2% | Disk Usage: 57.1%
+2025-04-22 14:00:02,489 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 14:02:02,795 - CPU Usage: 0.2% | RAM Usage: 53.0% | Disk Usage: 57.1%
+2025-04-22 14:02:02,853 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 14:20:18,468 - CPU Usage: 28.2% | RAM Usage: 52.7% | Disk Usage: 57.1%
+2025-04-22 14:20:18,530 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:04:48,079 - CPU Usage: 2.2% | RAM Usage: 52.5% | Disk Usage: 57.1%
+2025-04-22 15:04:48,113 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:06:02,380 - CPU Usage: 0.1% | RAM Usage: 53.2% | Disk Usage: 57.1%
+2025-04-22 15:06:02,401 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:08:02,570 - CPU Usage: 0.4% | RAM Usage: 53.2% | Disk Usage: 57.1%
+2025-04-22 15:08:02,600 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:10:02,853 - CPU Usage: 0.2% | RAM Usage: 53.2% | Disk Usage: 57.1%
+2025-04-22 15:10:02,881 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:12:03,102 - CPU Usage: 0.4% | RAM Usage: 53.1% | Disk Usage: 57.1%
+2025-04-22 15:12:03,151 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:14:02,501 - CPU Usage: 0.1% | RAM Usage: 53.0% | Disk Usage: 57.1%
+2025-04-22 15:14:02,552 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:16:02,900 - CPU Usage: 0.2% | RAM Usage: 52.0% | Disk Usage: 57.1%
+2025-04-22 15:16:02,936 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:18:02,207 - CPU Usage: 0.5% | RAM Usage: 52.6% | Disk Usage: 57.1%
+2025-04-22 15:18:02,265 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:20:02,560 - CPU Usage: 0.9% | RAM Usage: 53.7% | Disk Usage: 57.1%
+2025-04-22 15:20:02,583 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:22:02,729 - CPU Usage: 0.6% | RAM Usage: 53.6% | Disk Usage: 57.1%
+2025-04-22 15:22:02,762 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:24:02,910 - CPU Usage: 2.0% | RAM Usage: 53.4% | Disk Usage: 57.1%
+2025-04-22 15:24:02,946 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:26:02,128 - CPU Usage: 0.8% | RAM Usage: 53.6% | Disk Usage: 57.1%
+2025-04-22 15:26:02,154 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:28:02,306 - CPU Usage: 0.9% | RAM Usage: 53.8% | Disk Usage: 57.1%
+2025-04-22 15:28:02,339 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:30:02,604 - CPU Usage: 2.2% | RAM Usage: 53.8% | Disk Usage: 57.1%
+2025-04-22 15:30:02,659 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:32:02,964 - CPU Usage: 1.1% | RAM Usage: 53.2% | Disk Usage: 57.1%
+2025-04-22 15:32:02,991 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:34:02,227 - CPU Usage: 0.1% | RAM Usage: 53.1% | Disk Usage: 57.1%
+2025-04-22 15:34:02,281 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:36:02,609 - CPU Usage: 0.0% | RAM Usage: 53.9% | Disk Usage: 57.1%
+2025-04-22 15:36:02,665 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:38:02,968 - CPU Usage: 0.1% | RAM Usage: 53.5% | Disk Usage: 57.1%
+2025-04-22 15:38:03,026 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:40:02,439 - CPU Usage: 0.1% | RAM Usage: 53.2% | Disk Usage: 57.1%
+2025-04-22 15:40:02,503 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 15:59:07,583 - CPU Usage: 4.1% | RAM Usage: 52.9% | Disk Usage: 57.1%
+2025-04-22 15:59:07,633 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 16:00:02,341 - CPU Usage: 0.0% | RAM Usage: 52.5% | Disk Usage: 57.1%
+2025-04-22 16:00:02,397 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 16:02:02,780 - CPU Usage: 0.2% | RAM Usage: 51.8% | Disk Usage: 57.1%
+2025-04-22 16:02:02,831 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 16:04:02,153 - CPU Usage: 0.1% | RAM Usage: 52.1% | Disk Usage: 57.1%
+2025-04-22 16:04:02,206 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 16:06:02,526 - CPU Usage: 0.1% | RAM Usage: 52.4% | Disk Usage: 57.1%
+2025-04-22 16:06:02,574 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 16:40:02,976 - CPU Usage: 0.2% | RAM Usage: 52.3% | Disk Usage: 57.1%
+2025-04-22 16:40:03,025 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 17:56:02,860 - CPU Usage: 0.2% | RAM Usage: 52.3% | Disk Usage: 57.1%
+2025-04-22 17:56:02,912 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 17:58:02,225 - CPU Usage: 0.2% | RAM Usage: 53.7% | Disk Usage: 57.2%
+2025-04-22 17:58:02,294 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
+2025-04-22 18:00:02,723 - CPU Usage: 0.2% | RAM Usage: 53.8% | Disk Usage: 57.2%
+2025-04-22 18:00:02,783 - Running Containers: ['nginx', 'devops-challenge-web-1', 'redis']
