@@ -1,0 +1,170 @@
+[2025-04-22 21:36:50] Monitoring system...
+CPU usage:
+%Cpu(s):  0.6 us,  1.3 sy,  0.0 ni, 96.2 id,  1.9 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       1.9Gi       286Mi        61Mi       1.8Gi       1.8Gi
+Swap:          3.7Gi       1.3Mi       3.7Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           382M  2.0M  380M   1% /run
+/dev/sda2        25G   14G   10G  58% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           382M  152K  382M   1% /run/user/1000
+/dev/sr0         58M   58M     0 100% /media/mohammadghzawi/VBox_GAs_7.1.6
+Docker containers:
+CONTAINER ID   IMAGE                  COMMAND                  CREATED        STATUS        PORTS                                       NAMES
+7da390e6d6dd   nginx:latest           "/docker-entrypoint.…"   12 hours ago   Up 10 hours   0.0.0.0:80->80/tcp, :::80->80/tcp           nginx
+6ea771c5e15a   devops-challenge-web   "python app.py"          12 hours ago   Up 12 hours   5000/tcp                                    devops-challenge-web-1
+8a93b560fe7f   redis:alpine           "docker-entrypoint.s…"   36 hours ago   Up 33 hours   0.0.0.0:6379->6379/tcp, :::6379->6379/tcp   redis
+[2025-04-22 21:36:50] ERROR: Container your-container-name is not running.
+[2025-04-22 21:39:50] Monitoring system...
+CPU usage:
+%Cpu(s):  3.5 us,  0.9 sy,  0.0 ni, 95.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       2.0Gi       253Mi        61Mi       1.8Gi       1.8Gi
+Swap:          3.7Gi       1.3Mi       3.7Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           382M  2.0M  380M   1% /run
+/dev/sda2        25G   14G   10G  58% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           382M  152K  382M   1% /run/user/1000
+/dev/sr0         58M   58M     0 100% /media/mohammadghzawi/VBox_GAs_7.1.6
+Docker containers:
+CONTAINER ID   IMAGE                  COMMAND                  CREATED        STATUS        PORTS                                       NAMES
+7da390e6d6dd   nginx:latest           "/docker-entrypoint.…"   13 hours ago   Up 10 hours   0.0.0.0:80->80/tcp, :::80->80/tcp           nginx
+6ea771c5e15a   devops-challenge-web   "python app.py"          13 hours ago   Up 13 hours   5000/tcp                                    devops-challenge-web-1
+8a93b560fe7f   redis:alpine           "docker-entrypoint.s…"   36 hours ago   Up 34 hours   0.0.0.0:6379->6379/tcp, :::6379->6379/tcp   redis
+[2025-04-22 21:39:50] ERROR: Container your-container-name is not running.
+[2025-04-22 21:41:20] Monitoring system...
+CPU usage:
+%Cpu(s):  2.6 us,  0.9 sy,  0.0 ni, 96.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       1.9Gi       286Mi        60Mi       1.8Gi       1.8Gi
+Swap:          3.7Gi       1.3Mi       3.7Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           382M  1.9M  380M   1% /run
+/dev/sda2        25G   14G   10G  58% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           382M  152K  382M   1% /run/user/1000
+/dev/sr0         58M   58M     0 100% /media/mohammadghzawi/VBox_GAs_7.1.6
+Docker containers:
+CONTAINER ID   IMAGE          COMMAND                  CREATED        STATUS        PORTS                                       NAMES
+7da390e6d6dd   nginx:latest   "/docker-entrypoint.…"   13 hours ago   Up 10 hours   0.0.0.0:80->80/tcp, :::80->80/tcp           nginx
+8a93b560fe7f   redis:alpine   "docker-entrypoint.s…"   36 hours ago   Up 34 hours   0.0.0.0:6379->6379/tcp, :::6379->6379/tcp   redis
+[2025-04-22 21:41:20] ERROR: Container your-container-name is not running.
+[2025-04-22 21:46:43] Monitoring system...
+--- System Resource Usage ---
+CPU usage:
+%Cpu(s):  2.6 us,  1.7 sy,  0.0 ni, 94.8 id,  0.9 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       1.9Gi       293Mi        60Mi       1.8Gi       1.8Gi
+Swap:          3.7Gi       1.3Mi       3.7Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           382M  1.9M  380M   1% /run
+/dev/sda2        25G   14G   10G  58% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           382M  152K  382M   1% /run/user/1000
+/dev/sr0         58M   58M     0 100% /media/mohammadghzawi/VBox_GAs_7.1.6
+--- Docker Container Status ---
+CONTAINER ID   IMAGE          COMMAND                  CREATED        STATUS        PORTS                                       NAMES
+7da390e6d6dd   nginx:latest   "/docker-entrypoint.…"   13 hours ago   Up 10 hours   0.0.0.0:80->80/tcp, :::80->80/tcp           nginx
+8a93b560fe7f   redis:alpine   "docker-entrypoint.s…"   36 hours ago   Up 34 hours   0.0.0.0:6379->6379/tcp, :::6379->6379/tcp   redis
+[2025-04-22 21:46:43] ERROR: Container your-container-name is not running.
+[2025-04-22 21:47:02] Monitoring system...
+--- System Resource Usage ---
+CPU usage:
+%Cpu(s):  2.5 us,  0.8 sy,  0.0 ni, 96.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       1.9Gi       285Mi        60Mi       1.8Gi       1.8Gi
+Swap:          3.7Gi       1.3Mi       3.7Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           382M  1.9M  380M   1% /run
+/dev/sda2        25G   14G   10G  58% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           382M  152K  382M   1% /run/user/1000
+/dev/sr0         58M   58M     0 100% /media/mohammadghzawi/VBox_GAs_7.1.6
+--- Docker Container Status ---
+CONTAINER ID   IMAGE          COMMAND                  CREATED        STATUS        PORTS                                       NAMES
+7da390e6d6dd   nginx:latest   "/docker-entrypoint.…"   13 hours ago   Up 10 hours   0.0.0.0:80->80/tcp, :::80->80/tcp           nginx
+8a93b560fe7f   redis:alpine   "docker-entrypoint.s…"   36 hours ago   Up 34 hours   0.0.0.0:6379->6379/tcp, :::6379->6379/tcp   redis
+[2025-04-22 21:47:02] ERROR: Container your-container-name is not running.
+[2025-04-22 21:49:14] Monitoring system...
+--- System Resource Usage ---
+CPU usage:
+%Cpu(s):  4.4 us,  1.8 sy,  0.0 ni, 93.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       1.9Gi       266Mi        61Mi       1.8Gi       1.8Gi
+Swap:          3.7Gi       1.3Mi       3.7Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           382M  2.0M  380M   1% /run
+/dev/sda2        25G   14G   10G  58% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           382M  152K  382M   1% /run/user/1000
+/dev/sr0         58M   58M     0 100% /media/mohammadghzawi/VBox_GAs_7.1.6
+--- Docker Container Status ---
+CONTAINER ID   IMAGE                  COMMAND                  CREATED        STATUS         PORTS                                       NAMES
+7da390e6d6dd   nginx:latest           "/docker-entrypoint.…"   13 hours ago   Up 10 hours    0.0.0.0:80->80/tcp, :::80->80/tcp           nginx
+6ea771c5e15a   devops-challenge-web   "python app.py"          13 hours ago   Up 3 seconds   5000/tcp                                    devops-challenge-web-1
+8a93b560fe7f   redis:alpine           "docker-entrypoint.s…"   36 hours ago   Up 34 hours    0.0.0.0:6379->6379/tcp, :::6379->6379/tcp   redis
+[2025-04-22 21:49:14] ERROR: Container your-container-name is not running.
+[2025-04-22 21:53:46] Monitoring system...
+--- System Resource Usage ---
+CPU usage:
+%Cpu(s):  1.3 us,  0.0 sy,  0.0 ni, 98.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       1.9Gi       289Mi        60Mi       1.8Gi       1.8Gi
+Swap:          3.7Gi       1.3Mi       3.7Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           382M  1.9M  380M   1% /run
+/dev/sda2        25G   14G   10G  58% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           382M  152K  382M   1% /run/user/1000
+/dev/sr0         58M   58M     0 100% /media/mohammadghzawi/VBox_GAs_7.1.6
+--- Docker Container Status ---
+CONTAINER ID   IMAGE          COMMAND                  CREATED        STATUS        PORTS                                       NAMES
+7da390e6d6dd   nginx:latest   "/docker-entrypoint.…"   13 hours ago   Up 10 hours   0.0.0.0:80->80/tcp, :::80->80/tcp           nginx
+8a93b560fe7f   redis:alpine   "docker-entrypoint.s…"   36 hours ago   Up 34 hours   0.0.0.0:6379->6379/tcp, :::6379->6379/tcp   redis
+[2025-04-22 21:53:46] ERROR: Container devops-challenge-web-1 is not running.
+[2025-04-22 21:56:04] Monitoring system...
+--- System Resource Usage ---
+CPU usage:
+%Cpu(s):  2.6 us,  2.6 sy,  0.0 ni, 93.9 id,  0.0 wa,  0.0 hi,  0.9 si,  0.0 st 
+RAM usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       1.9Gi       254Mi        61Mi       1.8Gi       1.8Gi
+Swap:          3.7Gi       1.3Mi       3.7Gi
+Disk usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           382M  2.0M  380M   1% /run
+/dev/sda2        25G   14G   10G  58% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           382M  152K  382M   1% /run/user/1000
+/dev/sr0         58M   58M     0 100% /media/mohammadghzawi/VBox_GAs_7.1.6
+--- Docker Container Status ---
+CONTAINER ID   IMAGE                  COMMAND                  CREATED        STATUS         PORTS                                       NAMES
+7da390e6d6dd   nginx:latest           "/docker-entrypoint.…"   13 hours ago   Up 10 hours    0.0.0.0:80->80/tcp, :::80->80/tcp           nginx
+6ea771c5e15a   devops-challenge-web   "python app.py"          13 hours ago   Up 5 seconds   5000/tcp                                    devops-challenge-web-1
+8a93b560fe7f   redis:alpine           "docker-entrypoint.s…"   36 hours ago   Up 34 hours    0.0.0.0:6379->6379/tcp, :::6379->6379/tcp   redis
+[2025-04-22 21:56:04] Container devops-challenge-web-1 is running.
+[✔] Monitoring complete.
